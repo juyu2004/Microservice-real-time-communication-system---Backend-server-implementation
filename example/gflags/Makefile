@@ -1,2 +1,2 @@
 main:main.cc
-	g++ -std=c++17 $^ -o $@ -lgflags
+	g++ -std=c++17 $^ -o $@ -lgflags 
