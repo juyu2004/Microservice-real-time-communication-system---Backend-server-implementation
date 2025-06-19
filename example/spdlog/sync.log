@@ -1,0 +1,5 @@
+[default-logger][11:51:21][859395][debug   ] 你好!小明
+[default-logger][11:51:21][859395][info    ] 你好!小明
+[default-logger][11:51:21][859395][warning ] 你好!小明
+[default-logger][11:51:21][859395][error   ] 你好!小明
+[default-logger][11:51:21][859395][critical] 你好!小明
