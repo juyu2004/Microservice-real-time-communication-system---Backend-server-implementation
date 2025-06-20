@@ -41,7 +41,7 @@
 
 微服务框架 -- 将整体的业务进行子业务的拆分
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=YTA1MzUzZmY2ZDljNzU0ODQwZWYyZTRiMWE3ZTY0ODVfaTNmSEVzcXVNcDMxZWh6T3pQczJPWmMxVWNnbmRnbXNfVG9rZW46Q2RmbmJWNTJTbzA4cG14RU1IbWNkSG1vbjdnXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2RmNjc1MTE4NTlmNTJkNzI2NWRlYjJkMDdjNjBiODNfR0RBcXB3M2V6WUtYODZUWEtwMFBmQ0s5MHc2UGdXYWlfVG9rZW46Q2RmbmJWNTJTbzA4cG14RU1IbWNkSG1vbjdnXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 #### 聊天室子服务拆分：
 
@@ -63,7 +63,7 @@
    8. 会话成员的获取
    9. 好友列表的获取
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=Yzk5Y2M5MDQ5MmI2ZDg5MzM5ZGIxYTYzN2YyMjYzOWJfZHpMa3UwRzRzU0c1ZGlscW5tNTdnMzNpdWM5Z2FxUU1fVG9rZW46UXlwaGIzdjRJb1EyREp4SE8xdGNCVkV0bjVmXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjZhZWY4ODM3ZWRmZjY2MDQxOTRiYzkwNzkzNDYzYTJfQlVGOUtMVjk4eHRLRXIzbldRVzREdlJPNWt0TThyT2FfVG9rZW46UXlwaGIzdjRJb1EyREp4SE8xdGNCVkV0bjVmXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 #### 消息转发子服务：
 
@@ -305,11 +305,11 @@ main:main.cc
 
 样例运行:
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDZhZjAzNjM5NjU4OTMyYTVhMmY3ZjVhOWJmN2M4ODJfQzdWRHg5RngyTXZqODl2UWlkUmw0WEUzUWlTTmtFZGlfVG9rZW46RVV2MGJ2SDU4b0xFSFB4RW9qNmNQN3Bqbk1jXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=M2QyNjNhYmM5MGFhYjI5N2VlN2Y1MGVkZTYyNzZhNjVfSTZ6cVl1NmFoOXJONlp5TlhsclM0REtnd3Y5c21EeHRfVG9rZW46RVV2MGJ2SDU4b0xFSFB4RW9qNmNQN3Bqbk1jXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=NTY2N2I4NDZmY2JkYjMxY2Y1ZjUxMDk3NjI4NTQ4YWVfYTRPNmtuWnFVa280MTg5SGJvTHZ6QzlZaERMaXZZd1ZfVG9rZW46UEMxUGJreWpsb0NDemN4eHFSUGNnSENBbjVtXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=NTdlZTcwNzkwMDJlYjU5MDYzNTk5OTgwNTQxNWI1ODZfdmd4SU9uaWwzMVRjTnk5NkhHNVppYWpuMTFnRkNaQ0tfVG9rZW46UEMxUGJreWpsb0NDemN4eHFSUGNnSENBbjVtXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGU5NGY1ZTc0ZjY0MGEzY2M3MjVhYWU1NTM5OTY1MDlfV0lMMmVMSmsxWnEzcXcwdmdES3ZmWERnQ0RCQk1qU0JfVG9rZW46WE9QTGJQajBxb1JPSGZ4aUFjM2NJOU1rblZkXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=OTk0ZDhlNjA3YzE0YWFiMzQ0ZmUyZWNkNTVmMTZkMWRfUGhUa1M0WEtPRVlGRHNMekZtZ1hBREJ5Q2NWelF0NENfVG9rZW46WE9QTGJQajBxb1JPSGZ4aUFjM2NJOU1rblZkXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 ### gtest 框架安装
 
@@ -416,7 +416,7 @@ main:main.cc
     g++ -std=c++17 $^ -o $@ -lgtest -lgtest_main -pthread
 ```
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=NzdkY2JiOWQ0NmU3MTI3YTBiYmM2ZTQyZTEzNmZkMWJfMGo5ckV4M0VaTUM4N05zNUgxYk5WS2lna0h6b0tvekJfVG9rZW46UGJIbWI3Y0dJbzBEaFR4NVdaaGNwcWNTblhjXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=NjUwNjcwZjZkOThiYjU1YjIxZDE4NDgzY2U3OWYyMzhfVFJ2UW1TMUVBMFdTbU9ZdDllVlRIdkNLVG5IZFpsYmRfVG9rZW46UGJIbWI3Y0dJbzBEaFR4NVdaaGNwcWNTblhjXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 #### Gtest 事件机制
 
@@ -424,7 +424,7 @@ GTest中的事件机制是指在测试前和测试后提供给用户自行添加
 
 GTest框架中事件的结构层次：
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGY5MDhmMjRkNGY4NzU3Yjg5ZjRhOWUyOTYxYmZiNmJfY2JmZ2p3TzVnQnhhcE1MOTBTVjE4U2Z4b0dCNnZ6S1RfVG9rZW46RXhhNWJISUVMb1lYS1V4MVM5cGN6dFd6bjJnXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=YjI4YjhkMDc4MDUyNjliZWFmOTQxMDhmMjc4ZjAxMTJfVGJFRFZyMG8xVjluR0dXUmFaSzlTM0RiMEYxYVBQM1JfVG9rZW46RXhhNWJISUVMb1lYS1V4MVM5cGN6dFd6bjJnXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 - 测试程序：一个测试程序只有一个main函数，也可以说是一个可执行程序是一个测试程序。该级别的事件机制是在程序的开始和结束执行
 - 测试套件：代表一个测试用例的集合体，该级别的事件机制是在整体的测试案例开始和结束执行
@@ -478,7 +478,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTIyYjUyZmUzZjAyMDY4ZWE2NGQyZTk4NTE4OTQyNjFfNTQycGxaZkJhdUtLSllQUUFRYU5BSkpkWm9vV0h3RUVfVG9rZW46T1lkYWIzSUVHb002MEF4eHBOV2M0ZmdXbjBjXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=NTkzNmM0NDA2YjFlMzg2NmJhMjIxNGRiMjIxNjA4YTVfQ0Y4ZmlkeG96Sms3d3NvV1NWMDBvWnBuOXpUMUJmNm5fVG9rZW46T1lkYWIzSUVHb002MEF4eHBOV2M0ZmdXbjBjXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 1. TestSuite事件
 
@@ -536,7 +536,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=OGE3N2Q3OTA0ODRiOWVlZDU3Y2JiNzc1MDczNTQ4OTBfbHZsVzkxMmpXNkpLRTRUV25NaWJaWURsMkdDUTVkSE1fVG9rZW46WXRaeWJncjdob1hsdDh4d1hhSmNqbTZkbjJmXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=MGQyOWZjMDJmYTBiNzdkYTc5YTU4NzY0NWQ3M2E2ZGJfZ2F4U2J1b3VLYXk4UU82ajgyZ3k1QW5URXE5WFZHZTRfVG9rZW46WXRaeWJncjdob1hsdDh4d1hhSmNqbTZkbjJmXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 能够看到在上例中，有一个好处，就是将数据与测试结合到同一个测试环境类中了，这样与外界的耦合度更低，代码也更清晰。
 
@@ -601,7 +601,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmQ1ODFiMWZmYzljZGQyOWJiYjFjODMxNmY0ODhhZTRfNU95TE1yOUh6RlZIaVgxVEFQRE1FcVBiVDdqN29qd0pfVG9rZW46TGNVNWJpRG5mb1pHZjd4ZldUNGNXdmVZbmRjXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=YWI5OThiY2VmYzEyNDg0NDRiYWQ3MjI1NzhkN2ExMWRfMmE3ZkFwWWNxREpib1hjb0t2MGtka255bUg2UTNEWVFfVG9rZW46TGNVNWJpRG5mb1pHZjd4ZldUNGNXdmVZbmRjXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 ### spdlog 框架安装
 
@@ -899,9 +899,9 @@ int main()
 }
 ```
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=OWU1NjM0NzU2ZmIyYjUyYjZhNGMwM2ExYTc3NGMxYjJfbnhZYkNmQ2VvVXpuUHVWWTZXM1cxSk1FMDZlY0R3NG1fVG9rZW46QTNYNmJmcHVlbzg5bzJ4Y1MwRGNpNDdEbjhjXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=NWJlOTFkZjgzMTRlNzllMDAwZWM4MDNhMDg1MDY3OGVfQUdyUml4UGhLSmZLdEJ1dUpCaWdHcldJNkVaMjdQRzdfVG9rZW46QTNYNmJmcHVlbzg5bzJ4Y1MwRGNpNDdEbjhjXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=OGM1NjkxODUwMzkzZDIyMTQyM2VjMWJjYTdlZWE0NGJfYks2SG9TUEcyaUhVa282cW5YamFTbWhreWpaN2hKRDNfVG9rZW46TG1iZmJla1cxb3Q4VUx4bmR0M2MxRFlRblFoXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=YzQxMGU4NDE3ZDNhYWIyNDdlNjkxNWYwOTk3ODJiZmRfWmppUFFBY3RWVTVoaTZKV3R1dTk3M2NHMDdIeWJyZTlfVG9rZW46TG1iZmJla1cxb3Q4VUx4bmR0M2MxRFlRblFoXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 #### 二次封装:
 
@@ -910,7 +910,7 @@ int main()
 - 日志的初始化封装接口
 - 日志的输出接口封装宏
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=Yjg4OTE1YmE4ZjA5YmEyZDk1ZDVlNjBjODY0MGFhOWZfYVV6bVZVYjJiNmRHU0d3d2g3RnRRRjBjQXROVldhOTdfVG9rZW46RVFSeWJ5bThTb3FSOHp4SWhlbGNyMkIwbmdlXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=NTYyZjY0NmY0YjE2NzNlNzAyODQwMzE3MjQ1ZWYwZmVfOXNmMkxPSDZoYlhVT3JFZ2JwZmhzRFdEYWdlTXFxMkxfVG9rZW46RVFSeWJ5bThTb3FSOHp4SWhlbGNyMkIwbmdlXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 ```C++
 #include <spdlog/spdlog.h>
@@ -948,6 +948,84 @@ void init_logger(bool mode, const std::string &file, int32_t level)
 ```
 
 ### brpc 框架安装
+
+#### 介绍:
+
+brpc是用c++语言编写的工业级RPC框架，常用于搜索、存储、机器学习、广告、推荐等高性能系统。
+
+你可以使用它：
+
+- 搭建能在一个端口支持多协议的服务, 或访问各种服务
+
+> restful http/https, h2/gRPC。使用brpc的http实现比libcurl方便多了。从其他语言通过HTTP/h2+json访问基于protobuf的协议.
+>
+> redis和memcached, 线程安全，比官方client更方便。
+>
+> rtmp/flv/hls, 可用于搭建流媒体服务.
+>
+> 支持thrift , 线程安全，比官方client更方便
+>
+> 各种百度内使用的协议: baidu_std, streaming_rpc, hulu_pbrpc, sofa_pbrpc, nova_pbrpc, public_pbrpc, ubrpc和使用nshead的各种协议.
+>
+> 基于工业级的RAFT算法实现搭建高可用分布式系统，已在braft开源。
+
+- Server能同步或异步处理请求。
+- Client支持同步、异步、半同步，或使用组合channels简化复杂的分库或并发访问。
+- 通过http界面调试服务, 使用cpu, heap, contention profilers.
+- 获得更好的延时和吞吐.
+- 把你组织中使用的协议快速地加入brpc，或定制各类组件, 包括命名服务(dns, zk, etcd), 负载均衡(rr, random, consistent hashing)
+
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTMzYzBmODkwZTA5OGM3NmY2ZGE1N2NiODQ5ZTM2YzhfSFhyTW5jOEFFdVN0R05GdnloSjY0VEhjUXJYN3FiSnJfVG9rZW46S0JLTWJVdXR4b1dFR0Z4TE9DZGNtRUZubjJnXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
+
+#### 安装:
+
+先安装依赖:
+
+```C++
+sudo apt-get install -y git g++ make libssl-dev libprotobuf-dev libprotoc-dev protobuf-compiler libleveldb-dev
+```
+
+安装brpc
+
+```C++
+git clone https://github.com/apache/brpc.git
+cd brpc/
+mkdir build && cd build
+cmake -DCMAKE_INSTALL_PREFIX=/usr .. && cmake --build . -j6
+make && sudo make install
+```
+
+#### 类与接口说明:
+
+1. 日志输出:
+
+```C++
+#include <butil/logging.h>
+logging::InitLogging(...)
+```
+
+1. protobuf相关类:
+
+RpcController: 上下文管理类 -- 目前主要用于判断 rpc 请求是否 OK 的
+
+Closure: 客户端-主要用于设置异步处理回调; 服务端: 通过 Run() 接口宣告请求处理完毕
+
+1. 服务端相关类:
+
+Server类: 服务器类; ServerOptions: 服务器参数配置类
+
+ClosureGuard: Closure 对象的智能管理类
+
+1. 客户端相关类: 
+
+Channel: 客户端与服务器网络通信信道类; ChannelOptaions: 信道配置类
+
+**RPC** **调用实例:**
+
+服务端:
+
+1. 创建 rpc 服务子类继承 pb 中的 EchoService 服务类,并实现内部的业务接口逻辑
+2. 
 
 ### etcd 框架安装
 
@@ -997,7 +1075,34 @@ export ETCDCTL_API=3
 
 完毕后，加载配置文件，并重新执行测试指令:
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=MzI1MDJjOTkzNzhjODRhN2NiNDExMGQ1NGVmYzkxYTRfZWhHd0dDdVhhU2dOTXhrNWJ5U1RhREtQM2hBajJoOHFfVG9rZW46REtBTWI1MVdvb0VTNGd4dTVpQWN5clNNbkNlXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=NTQ4M2FhNzYzNWRjZDRhZmVmYjA0YWIzYzYxMDMyY2RfWUg0MUNMZUNwWEJ3NmY1a09nMjVsYU5nWXp2ZGNZS3VfVG9rZW46REtBTWI1MVdvb0VTNGd4dTVpQWN5clNNbkNlXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
+
+**etcd-cpp-apiv3**
+
+etcd-cpp-apiv3是一个etcd的C++版本客户端API。它依赖于mipsasm, boost, protobuf, gRPC, cpprestsdk等库。
+
+etcd-cpp-apiv3的GitHub地址是：https://github.com/etcd-cpp-apiv3/etcd-cpp-apiv3
+
+依赖安装：
+
+```C++
+C++ 
+sudo apt-get install libboost-all-dev libssl-dev 
+sudo apt-get install libprotobuf-dev protobuf-compiler-grpc 
+sudo apt-get install libgrpc-dev libgrpc++-dev 
+sudo apt-get install libcpprest-dev
+```
+
+api框架安装
+
+```Bash
+git clone https://github.com/etcd-cpp-apiv3/etcd-cpp-apiv3.git cd 
+etcd-cpp-apiv3 
+mkdir build && cd build 
+
+cmake .. -DCMAKE_INSTALL_PREFIX=/usr 
+make -j$(nproc) && sudo make install
+```
 
 #### 搭建服务注册发现中心
 
@@ -1069,7 +1174,7 @@ make -j$(nproc) && sudo make install
 
 因为管理了所有的能够提供服务的节点主机的地址，因此当需要进行rpc调用的时候，则根据服务名称，获取一个能够提供服务的主机节点地址进行访问就可以了，而这里的获取策略，我们采用RR轮转策略。
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=MGYxMjhmNDRiNzFkNWMxMzM0YTk1NzNiNmNlYzk1ZTBfOG5Kd0Zvc0NyNkxIQVV6QzRFTUhMUEx2TDNqOEE3RDdfVG9rZW46WlBMY2J0OWxDb2M0a2J4SUs0dmNua2ZlbnJoXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=N2U2ZTk2MzY1NWY3YjRkN2U1OGZiN2RmMzdkZDIxZGJfb2FjVGVkT24wQmQwUGpTaGphNXJMT0VCWkZpQm9LRWZfVG9rZW46WlBMY2J0OWxDb2M0a2J4SUs0dmNua2ZlbnJoXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 **封装思想：**
 
@@ -1187,7 +1292,7 @@ namespace bite_im
 }
 ```
 
-![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=OGQ0OGE2NTliZjRkM2M5Y2UzYWE5YTk5YWU5ZGQ4OTFfVVRPdVJjRUl2TEIxdGlwZDhTM21TWEc3V3d5M1lxNVlfVG9rZW46WlhWSmJvZXdGb0NDSmV4dElQMWNSQWJsbkdjXzE3NTAzNTI2NTg6MTc1MDM1NjI1OF9WNA)
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=YzA5YzE4ZTE2MjRmNmNiNmI2NDU2NDJiOWUyOGNhYmVfZzl0aXlFNVRuVGVobHRrOENWeGNnb3dkYWphZzVtdUVfVG9rZW46WlhWSmJvZXdGb0NDSmV4dElQMWNSQWJsbkdjXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
 
 #### 测试样例:
 
@@ -1277,12 +1382,326 @@ int main(int argc, char *argv[])
 
 ### elasticsearch 框架安装：
 
+#### 介绍:
+
+Elasticsearch， 简称ES，它是个开源分布式搜索引擎，它的特点有：分布式，零配置，自动发现，索引自动分片，索引副本机制，restful风格接口，多数据源，自动搜索负载等。它可以近乎实时的存储、检索数据；本身扩展性很好，可以扩展到上百台服务器，处理PB级别的数据。es也使用Java开发并使用Lucene作为其核心来实现所有索引和搜索的功能，但是它的目的是通过简单的RESTful API来隐藏Lucene的复杂性，从而让全文搜索变得简单。
+
+Elasticsearch是面向文档(document oriented)的，这意味着它可以存储整个对象或文档(document)。然而它不仅仅是存储，还会索引(index)每个文档的内容使之可以被搜索。在Elasticsearch中，你可以对文档（而非成行成列的数据）进行索引、搜索、排序、过滤。
+
+#### 安装:
+
+```C++
+# 添加仓库秘钥
+curl -fsSL https://artifacts.elastic.co/GPG-KEY-elasticsearch | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/elasticsearch.gpg > /dev/null
+# 添加镜像源仓库 
+echo "deb https://artifacts.elastic.co/packages/7.x/apt stable main" | sudo tee /etc/apt/sources.list.d/elasticsearch.list
+# 更新软件包列表 
+sudo apt update 
+# 安装es 
+sudo apt-get install elasticsearch=7.17.21 
+# 启动es 
+sudo systemctl start elasticsearch 
+# 安装ik分词器插件 
+sudo /usr/share/elasticsearch/bin/elasticsearch-plugin install https://get.infini.cloud/elasticsearch/analysis-ik/7.17.21
+```
+
+查看es服务的状态
+
+```C++
+sudo systemctl status elasticsearch.service
+```
+
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ODQzN2IwNjZjNTc3MWY2ZDU4MjViZGYzYjJjMDJiZTFfSHBqdURyS0ZTN1lBTnlJTmxxZ3ZhcUJwVEJCMDVkQ2lfVG9rZW46WWZ2SWJuMTRSb25XOGl4anpYVWNLSktubklMXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
+
+验证es是否安装成功
+
+```C++
+curl -X GET "http://localhost:9200/"
+```
+
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDFlMjlmNTNhMGRkZDBkNjA5Y2MzY2RkYTIxMmI1MDNfUzdFc0l4OXFtSGRVNEREQW9hQW5NNXRTUXRoRWsxTlNfVG9rZW46U0lGN2JlOHNab0g3OHF4ZDNTYmNJSkt0blBoXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
+
+设置外网访问：如果新配置完成的话，默认只能在本机进行访问。
+
+```C++
+vim /etc/elasticsearch/elasticsearch.yml 
+# 新增配置 
+network.host: 0.0.0.0 
+http.port: 9200 
+cluster.initial_master_nodes: ["node-1"]
+```
+
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDY3MTAwYjliMzA1YmQ3NzcwZDdjYWJhNWE4NjFhNDhfNndpVFdsVllBaXdaUXpaSENkd0llTVEzODI4NllTaTRfVG9rZW46S1k5WmI2NUlYbzQzSjh4U2tqZWNXOEJYbndiXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
+
+浏览器访问http://124.71.229.73:9200/
+
+**安装kibana**
+
+```C++
+安装 Kibana： 
+使用 apt 命令安装 Kibana。 
+sudo apt install kibana 
+配置 Kibana（可选）： 根据需要配置 Kibana。配置文件通常位于 /etc/kibana/kibana.yml。可能需要设置如服务器地址、端口、Elasticsearch URL 等。 
+sudo vim /etc/kibana/kibana.yml 
+例如，你可能需要设置 Elasticsearch 服务的 URL： 大概32行左右 
+elasticsearch.host: "http://localhost:9200" 
+启动 Kibana 服务： 
+安装完成后，启动 Kibana 服务。
+sudo systemctl start kibana 
+设置开机自启（可选）： 
+如果你希望 Kibana 在系统启动时自动启动，可以使用以下命令来启用自启动。 
+sudo systemctl enable kibana 
+验证安装： 
+使用以下命令检查 Kibana 服务的状态。 
+sudo systemctl status kibana 
+访问 Kibana： 在浏览器中访问 Kibana，通常是 http://<your-ip>:5601
+```
+
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjQyMzZlYTJiMTkzNDI1YTgwZTFjMDlmOWJiYjIzMjNfQmxGMHRUcW1zYjVWMG9KSG5WZTNHNGR3dE1CVjVreFFfVG9rZW46R20xcGJYN1Nib083WGJ4SlowS2NMYnJTbm5iXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
+
+**ES客户端的安装**
+
+代码：https://github.com/seznam/elasticlient
+
+官网：https://seznam.github.io/elasticlient/index.html
+
+ES C++的客户端选择并不多， 我们这里使用elasticlient库, 下面进行安装。
+
+```C++
+# 克隆代码 
+git clone https://github.com/seznam/elasticlient 
+# 切换目录 
+cd elasticlient 
+# 更新子模块 
+git submodule update --init --recursive 
+# 安装依赖
+sudo apt-get install libmicrohttpd-dev
+# 编译代码 
+mkdir build 
+cd build 
+cmake -DCMAKE_INSTALL_PBEFIX=/usr ..
+make 
+# 安装 
+make install
+```
+
 ### cpp-httplib 框架安装：
+
+#### 介绍:
+
+C++ HTTP 库（cpp-httplib）是一个轻量级的C++ HTTP 客户端/服务器库，它提供了简单的API 来创建HTTP 服务器和客户端，支持同步和异步操作。以下是一些关于cpp-httplib 的主要特点：
+
+1. 轻量级：cpp-httplib 的设计目标是简单和轻量，只有一个头文件包含即可，不依赖于任何外部库。
+2. 跨平台：它支持多种操作系统，包括Windows、Linux 和macOS。
+3. 同步和异步操作：库提供了同步和异步两种操作方式，允许开发者根据需要选择。
+4. 支持 HTTP/1.1：它实现了HTTP/1.1 协议，包括持久连接和管道化。
+5. Multipart form-data：支持发送和接收multipart/form-data 类型的请求，这对于文件上传非常有用。
+6. SSL/TLS 支持：通过使用OpenSSL 或mbedTLS 库，cpp-httplib 支持HTTPS 和WSS。
+7. 简单易用：API 设计简洁，易于学习和使用。
+8. 性能：尽管是轻量级库，但性能表现良好，适合多种应用场景。
+9. 社区活跃：cpp-httplib 有一个活跃的社区，不断有新的功能和改进被加入。
+
+#### 安装:
+
+```C++
+git clone https://github.com/yhirose/cpp-httplib.git
+mv ./httplib.h /home/ubuntu/Microservice-real-time-communication-system---Backend-server-implementation/common 
+```
 
 ### websocketpp 框架安装：
 
+#### 介绍:
+
+WebSocket 是从HTML5 开始支持的一种网页端和服务端保持长连接的消息推送机制。
+
+- 传统的 web 程序都是属于 "一问一答" 的形式，即客户端给服务器发送了一个HTTP 请求，服务器给客户端返回一个HTTP 响应。这种情况下服务器是属于被动的一方，如果客户端不主动发起请求服务器就无法主动给客户端响应
+- 像网页即时聊天或者我们做的五子棋游戏这样的程序都是非常依赖 "消息推送" 的， 即需要服务器主动推动消息到客户端。如果只是使用原生的HTTP 协议，要想实现消息推送一般需要通过 "轮询" 的方式实现， 而轮询的成本比较高并且也不能及时的获取到消息的响应。
+
+基于上述两个问题， 就产生了WebSocket协议。WebSocket 更接近于TCP 这种级别的通信方式，一旦连接建立完成客户端或者服务器都可以主动的向对方发送数据。
+
+原理解析
+
+WebSocket 协议本质上是一个基于TCP 的协议。为了建立一个WebSocket 连接，客户端浏览器首先要向服务器发起一个HTTP 请求，这个请求和通常的HTTP 请求不同，包含了一些附加头信息，通过这个附加头信息完成握手过程并升级协议的过程。
+
+#### 安装:
+
+```C++
+sudo apt-get install libboost-dev libboost-system-dev libwebsocketpp-dev
+```
+
+安装完毕后，若在/usr/include 下有了websocketpp目录就表示安装成功了。
+
+![img](https://in4zh9vdv3.feishu.cn/space/api/box/stream/download/asynccode/?code=MDgyMzM5ZGQwZTAyMjQ0N2Y0OGJkZjk2YzZkMGQ2OTNfWHN2NWJnU1VvTmd3QmhuTUl5eE1oeXlKcVJ2Qzg4VmZfVG9rZW46RHpZZWJrWWZGb1QxaU94Q1Z4UmNXR28xbnpnXzE3NTA0NDQ2Nzg6MTc1MDQ0ODI3OF9WNA)
+
 ### redis 安装
 
+#### 安装:
+
+使用apt 安装:
+
+```C++
+sudo apt install redis -y
+```
+
+支持远程连接
+
+修改/etc/redis/redis.conf
+
+- 修改 bind 127.0.0.1 为 bind 0.0.0.0
+- 修改 protected-mode yes 为protected-mode no
+
+启动Redis 服务
+
+```C++
+service redis-server start
+```
+
+重启Redis 服务
+
+```C++
+service redis-server restart
+```
+
+自启动:
+
+```C++
+sudo systemctl enable redis-server
+```
+
+**装redis-plus-plus**
+
+C++ 操作redis 的库有很多. 咱们此处使用redis-plus-plus.
+
+这个库的功能强大, 使用简单.
+
+Github 地址: https://github.com/sewenew/redis-plus-plus
+
+**安装hiredis**
+
+redis-plus-plus 是基于hiredis 实现的.
+
+hiredis 是一个C 语言实现的redis 客户端.
+
+因此需要先安装hiredis. 直接使用包管理器安装即可.
+
+```C++
+apt install libhiredis-dev
+```
+
+下载redis-plus-plus 源码
+
+```C++
+git clone https://github.com/sewenew/redis-plus-plus.git
+```
+
+编译/安装redis-plus-plus
+
+使用cmake 构建
+
+```C++
+cd redis-plus-plus 
+mkdir build 
+cd build 
+cmake -DCMAKE_INSTALL_PBEFIX=/usr ..
+make 
+make install # 这一步操作需要管理员权限. 如果是非 root 用户, 使用 sudo make install 执行.
+```
+
 ### ODB 安装
+
+#### 安装:
+
+安装build2：
+
+因为build2安装时，有可能会版本更新，从16变成17，或从17变18，因此注意，先从build2官网查看安装步骤...
+
+安装步骤：https://build2.org/install.xhtml#unix
+
+```Shell
+$ cd ~/build2-build
+
+$ curl -sSfO https://download.build2.org/0.17.0/build2-install-0.17.0.sh
+
+$ shasum -a 256 -b build2-install-0.17.0.sh
+
+ b84e4114c61aa94c3f6278f010a0dc0536dda65ac39d3863152ec9b64510b86e
+
+$ sh build2-install-0.17.0.sh
+```
+
+**安装odb-compiler**
+
+```C++
+#注意这里的gcc-11需要根据你自己版本而定 
+sudo apt-get install gcc-11-plugin-dev 
+mkdir odb-build && cd odb-build 
+bpkg create -d odb-gcc-N cc \ 
+config.cxx=g++ \ 
+config.cc.coptions=-O3 \ 
+config.bin.rpath=/usr/lib \ 
+config.install.root=/usr/ \ 
+config.install.sudo=sudo 
+cd odb-gcc-N 
+bpkg build odb@https://pkg.cppget.org/1/beta 
+bpkg test odb 
+test odb-2.5.0-b.25+1/tests/testscript{testscript} 
+tested odb/2.5.0-b.25+1 
+bpkg install odb 
+odb --version 
+```
+
+**安装ODB运行时库：**
+
+```C++
+cd ..
+bpkg create -d libodb-gcc-N cc \
+  config.cxx=g++ \
+  config.cc.coptions=-O3 \
+  config.install.root=/usr/ \
+  config.install.sudo=sudo
+cd libodb-gcc-N
+bpkg add https://pkg.cppget.org/1/beta
+bpkg fetch
+bpkg build libodb
+bpkg build libodb-mysql
+```
+
+**安装****mysql****和客户端开发包**
+
+```C++
+sudo apt install mysql-server 
+sudo apt install -y libmysqlclient-dev
+```
+
+配置mysql
+
+```SQL
+sudo vim /etc/my.cnf 或者 /etc/mysql/my.cnf 有哪个修改哪个就行 
+#添加以下内容
+[client] 
+default-character-set=utf8 
+[mysql] 
+default-character-set=utf8 
+[mysqld] 
+character-set-server=utf8 
+bind-address = 0.0.0.0
+```
+
+修改root用户密码
+
+```Shell
+sudo cat /etc/mysql/debian.cnf
+sudo mysql -u debian-sys-maint -p
+Enter password: #这里输入上边第6行看到的密码
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
+FLUSH PRIVILEGES;
+```
+
+重启mysql，并设置开机启动
+
+```Shell
+sudo systemctl restart mysql 
+sudo systemctl enable mysql
+```
 
 ### RabbbitMQ 安装
